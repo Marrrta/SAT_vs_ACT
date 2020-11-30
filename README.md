@@ -2,7 +2,8 @@
 
 ### Problem Statement
 
-This project attempts to validate the need for two separate standardized admissions tests in the USA. By examining the popularity and results of both SAT and ACT across all states, as well as the acceptance requirements of top academic institutions in the country that involve these tests, it:
+This project attempts to validate the need for two separate standardized aptitude tests used for college admissions in the USA. 
+By examining the popularity and results of both SAT and ACT across all states, as well as the acceptance requirements of top academic institutions in the country that involve these tests, the analysis:
 
 1. Evaluates the reasons for both tests to be maintained;
 
