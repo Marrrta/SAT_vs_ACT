@@ -12,7 +12,7 @@ This project attempts to validate the need for two separate standardized aptitud
 
 3. Determines if either the SAT or the ACT is better for “elite school”* candidates.
 
-* For the purpose of this project, “elite schools” are defined as those which are both popular among students (high # of applicants) and selective (low acceptance rate) 
+*For the purpose of this project, “elite schools” are defined as those which are both popular among students (high # of applicants) and selective (low acceptance rate) 
 
 ### Executive Summary
 
@@ -49,16 +49,16 @@ The Visualization, Observations, and Recommendations section centers on the thre
 
 ### Key Observations, Conclusions and Recommendations
 
-## Feasibility of converging onto one standard (SAT or ACT):
+#### Feasibility of converging onto one standard (SAT or ACT):
 
 While both the ACT and the SAT are available to students in all 51 states, some states seem to overwhelmingly "prefer" one over the other. There are 24 states where one of the tests (SAT or ACT) is more popular than the other by more than 70 pct point and 15 states where one of the tests (SAT for one and ACT for the remaining 14) is more popular than the other by more than 90 pct points. However, although the 14 states could feasibly switch to the ACT, this would not drive much benefit. 
 Standardization across all states does not currently appear feasible.
 
-## Comparative difficulty levels of the SAT and the ACT:
+#### Comparative difficulty levels of the SAT and the ACT:
 
 Based on analysis of the distribution of state averages, it does not appear as though overall test results skew towards either SAT or ACT, making it impossible to conclude that one is generally easier than the other. Of 51 states, 27 reported better SAT results, 24 - better ACT results. An overlay of both test results' histograms additionally supports the conclusion that neither the ACT nor the SAT can generally be considered "easier".
 
-## Relative advantage of the SAT / ACT in terms of "elite school" admissions:
+#### Relative advantage of the SAT / ACT in terms of "elite school" admissions:
 
 To get accepted into one of 28 colleges and universities which are both most popular with high school students (largest volumes of applications) and most selective (lowest acceptance rates), students should aim for at least  87.9% or 31.6 points on the ACT, or at least 82.1% (1405.7 points) on the SAT. Based on the assumption of normal distribution, the probabity of a test-taker achieving the required ACT minimum is 2.6% - lower by 0.9% (or 26%!) than the probability of achieving the minimum SAT score.
 
