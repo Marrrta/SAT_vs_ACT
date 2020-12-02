@@ -22,7 +22,7 @@ Because the SAT and the ACT use different score ranges, in order to allow for di
 
 The Exploratory Data Analysis examines participation and results for both tests, and creates data frames used further  for visualizations, observations, and recommendations.
 
-The Visualization, Observations, and Recommendations section centers on the three key objectives listed in the Problem Statement.
+The Visualization, Observations, and Recommendations section (summarized below in this document) centers on the three key objectives listed in the Problem Statement.
 
 ### Data Dictionary
 
